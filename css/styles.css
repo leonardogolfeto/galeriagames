@@ -2457,12 +2457,12 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #4a7d86;
+  background-color: #0c0c0c;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #6aaab5;
+  background-color: #0c0c0c;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -6066,7 +6066,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #4eb5ce !important;
+  background-color: #767676 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6136,7 +6136,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-  background-color: #59b5ce !important;
+  background-color: #0000007c !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
@@ -9747,7 +9747,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #64acca !important;
+  color: #212529 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9958,7 +9958,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #338c9a;
+  border-color: #000000;
 }
 
 hr.light {
